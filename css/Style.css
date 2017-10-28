@@ -1,20 +1,9 @@
-body {
-
-}
-.page {
-
-}
-
-.masthead {
-
-}
-
 .container {
   background-color: lightgrey;
   border-style: solid;
   border-color: black;
   border-width: 3px;
-  padding: 15px;
+  padding: 12px;
 	margin: 12px;
   float: left;
 }
@@ -22,7 +11,7 @@ body {
 header {
 	background-color: lightgrey;
 	display: inline-block;
-  padding: 15px;
+  padding: 12px;
 	margin: 12px;
   border-style: solid;
   border-color: black;
