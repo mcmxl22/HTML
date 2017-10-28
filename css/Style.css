@@ -4,7 +4,7 @@
   border-color: black;
   border-width: 3px;
   padding: 12px;
-	margin: 12px;
+  margin: 12px;
   float: left;
 }
 
@@ -24,7 +24,7 @@ aside {
   border-width: 3px;
   margin: 12px;
 	text-align: center;
-  width: 1720px;
+  width: 1550px;
 	background-color: lightblue;
   float: right;
 }
