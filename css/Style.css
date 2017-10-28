@@ -9,7 +9,7 @@
 }
 
 header {
-	background-color: lightgrey;
+	background-image: url(C:/Users/User/Desktop/Programming/HTML/Politics365/images/SplitShire-8881.jpg);
 	display: inline-block;
   padding: 12px;
 	margin: 12px;
@@ -25,6 +25,13 @@ aside {
   margin: 12px;
 	text-align: center;
   width: 1720px;
-	background-color: lightgrey;
+	background-color: lightblue;
   float: right;
+}
+
+hr {
+  height: 2px;
+  width: 20%;
+  margin: -15px;
+  float: left;
 }
