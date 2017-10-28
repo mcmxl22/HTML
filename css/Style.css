@@ -1,6 +1,14 @@
-hr {
-  width="100%" size="4" align="center" color="black"
+.header {
+	display: inline-block;
+	padding: 5xp;
 }
 
+.main {
+	float: left;
+	display: block;
+}
 
-
+.aside {
+	text-align: center;
+	min-height: 100%;
+}
