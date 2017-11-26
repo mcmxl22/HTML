@@ -1,6 +1,16 @@
+#1 {
+  border-style: solid;
+  border-color: white;
+  border-width: 16px;
+  background-image: url("http://i1339.photobucket.com/albums/o714/mcmxl22/IMG_0910_zpslbunius2.jpg");
+}
+
 .bg-color {
   background-image: url("http://i1339.photobucket.com/albums/o714/mcmxl22/IMG_0910_zpslbunius2.jpg");
   Background-size: cover;
+  border-style: solid;
+  border-color: black;
+  border-width: 8px;
 }
 
 .name {
@@ -19,10 +29,22 @@
 
 .footer {
   background-color: darkgrey;
-  height: 70px;
+  height: 82px;
   width: 100%;
 }
 
 ul {
   list-style-type: none;
+}
+
+#information {
+  padding-top: 13px;
+}
+
+#wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 100px 100px;
+  padding-top: 60%;
+  padding-bottom: 60%;
 }
