@@ -1,0 +1,13 @@
+.bg-color {
+  background-color: darkgreen;
+}
+
+.name {
+  padding: 29%;
+  font-size: 28px;
+}
+
+.footer {
+  background-color: darkgrey;
+  width: 100%;
+}
