@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Micah C. McConnaughey</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://cdn.rawgit.com/mcmxl22/HTML/3f3d17a1/Porfolio/css/style.css"/>
+    <!--<link rel="stylesheet" href="https://cdn.rawgit.com/mcmxl22/HTML/3f3d17a1/Porfolio/css/style.css"/>-->
     <meta charset="utf-8">
     <script>
       $(document).ready(function() {
@@ -12,6 +11,8 @@
         $(".headline").addClass("name");
         $("#footer").addClass("footer");
         $("#well").addClass("#well");
+        $("#wrapper").addClass("#wrapper");
+        $("#1").addClass("#1");
       });
     </script>
   </head>
@@ -19,7 +20,7 @@
   <body>
     <header class="header" id="header">
       <div class="row">
-        <div class="col-md">
+        <div class="col-md" id="column">
           <div class="well" id="well">
             <a href="https://twitter.com/mcmxl22" class="btn" role="button">Twitter</a>
             <a href="https://www.facebook.com/micah.c.mcconnaughey" class= "btn" role="button">Facebook</a>
@@ -31,8 +32,14 @@
     </header>
 
     <div class="container-fluid">
-      <!--stuff-->
-      <div class="stuff" id="stuff">
+      <!--grid-->
+      <div class="wrapper" id="wrapper">
+        <div class="btn" id="1"></div>
+        <div class="btn" id="2"></div>
+        <div class="btn" id="3"></div>
+        <div class="btn" id="4"></div>
+        <div class="btn" id="5"></div>
+        <div class="btn" id="6"></div>
       </div>
     </div>
 
