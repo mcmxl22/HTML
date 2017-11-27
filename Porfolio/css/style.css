@@ -1,8 +1,7 @@
-#1 {
-  border-style: solid;
-  border-color: white;
-  border-width: 16px;
-  background-image: url("http://i1339.photobucket.com/albums/o714/mcmxl22/IMG_0910_zpslbunius2.jpg");
+img {
+  margin: 0px;
+  width: 180px;
+  height: 75px;
 }
 
 .bg-color {
