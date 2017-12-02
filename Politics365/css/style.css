@@ -6,6 +6,7 @@ body {
   background-color: lightgrey;
   border-style: solid;
   border-color: white;
+  height: 100%;
   padding: 12px;
   margin: 12px;
   float: left;
@@ -31,12 +32,13 @@ aside {
 }
 
 .articles {
+  font-family: Arial, sans-serif;
   border-style: solid;
   border-color: white;
   border-width: 4px;
   margin: 12px;
   width: 89%;
-  height: 300px;
+  height: 100%;
 	background-color: white;
   float: right;
 }
@@ -48,3 +50,7 @@ hr {
   margin: -11px;
   float: left;
 }
+
+ul {
+  list-style: none;
+  }
