@@ -17,7 +17,7 @@ body {
 .header {
   border-style: solid;
   border-color: white;
-  background-image: url(C:/Users/User/Desktop/Programming/HTML/Politics365/images/SplitShire-8881.jpg);
+  background-image: url ("C:/Users/User/Desktop/Programming/HTML/Politics365/images/SplitShire-8881.jpg");
   margin-top: 12px;
 }
 
