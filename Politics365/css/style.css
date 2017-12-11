@@ -30,6 +30,7 @@ body {
 .siteName {
   font-family: Arial, sans-serif;
   margin-left: 10px;
+  width: 300px;
 }
 
 .navLinks {
