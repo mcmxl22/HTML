@@ -22,7 +22,6 @@ body {
   border-style: solid;
   border-color: white;
   border-width: 4px;
-  border-radius: 5%;
   background-image: url("https://image.ibb.co/insmCw/Split_Shire_8881.jpg");
   height: 120px;
   margin: 10px;
@@ -44,7 +43,6 @@ body {
   border-style: solid;
   border-color: white;
   border-width: 4px;
-  border-radius: 5%;
   margin: 12px;
   text-align: center;
   width: 90%;
@@ -57,7 +55,6 @@ body {
   border-style: solid;
   border-color: lightgrey;
   border-width: 4px;
-  border-radius: 5%;
   margin: 10px;
   width: 90%;
   height: 100%;
