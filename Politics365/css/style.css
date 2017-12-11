@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .sideBar {
   background-color: lightgrey;
   border-style: solid;
