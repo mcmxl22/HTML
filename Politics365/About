@@ -2,13 +2,10 @@
 <html lang="en">
 
   <head>
-    <title>About</title>
+    <title>Politics365.org</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <link type="text/css" rel="stylesheet"
-      href="file:///C:/Users/User/Desktop/Programming/HTML/Politics365/css/Style.css">
-	  <link type="text/css" rel="stylesheet"
-	    href="file:///C:/Users/User/Desktop/Programming/HTML/Politics365/css/normalize.css">
+    <link rel="stylesheet" href="https://rawgit.com/mcmxl22/HTML/master/Politics365/css/style.css" />
   </head>
 
   <body>
