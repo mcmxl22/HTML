@@ -1,8 +1,4 @@
-body {
-  background-color: black;
-}
-
-.sidebar {
+.sideBar {
   background-color: lightgrey;
   border-style: solid;
   border-color: white;
@@ -19,7 +15,7 @@ body {
 .header {
   border-style: solid;
   border-color: white;
-	background-image: url("https://image.ibb.co/insmCw/Split_Shire_8881.jpg");
+  background-image: url("https://image.ibb.co/insmCw/Split_Shire_8881.jpg");
   height: 120px;
   margin: 10px;
 }
@@ -37,9 +33,9 @@ body {
   border-style: solid;
   border-color: white;
   margin: 10px;
-	text-align: center;
+  text-align: center;
   width: 90%;
-	background-color: lightblue;
+  background-color: lightblue;
   float: right;
 }
 
@@ -50,14 +46,14 @@ body {
   border-width: 4px;
   margin: 12px;
   width: 90%;
-	background-color: white;
+  height: 100%;
+  background-color: white;
   float: right;
 }
 
-p {
-  margin-left: 13px;
+.headline {
+  margin: 13px;
 }
-
 
 hr {
   height: 2px;
@@ -69,4 +65,4 @@ hr {
 ul {
   list-style: none;
   margin-left: -13px;
-  }
+}
