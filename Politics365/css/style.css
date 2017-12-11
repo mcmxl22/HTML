@@ -46,7 +46,7 @@ body {
 .articles {
   font-family: Arial, sans-serif;
   border-style: solid;
-  border-color: white;
+  border-color: lightgrey;
   border-width: 4px;
   margin: 12px;
   width: 90%;
