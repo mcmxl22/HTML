@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Chatter</title>
+	<link rel="shortcut icon" type="image/x-icon" href="file:///C:/Users/new user/Desktop/Chatter/images/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="file:///C:/Users/new user/Desktop/Chatter/css/css.css"/>
+  </head>
+
+  <body>
+
+    <div class="header">
+      <header>
+	    <h1 class="siteName">Chatter</h1>
+		<a class="login" href="file:///C:/Users/new user/Desktop/chatter/login.htm">Login</a>
+	  </header>
+	</div>
+	
+	<div class="footer">
+      <footer>
+		<ul>
+          <li><a href="file:///C:/Users/new user/Desktop/chatter/About.htm">About</a></li>
+          <li><a href="file:///C:/Users/new user/Desktop/chatter/Contact.htm">Contact</a></li>
+		  <li><h5>Copyright 2018 Micah C. McConnaughey</h5></li>
+		<ul>
+      </footer>
+    </div>
+  </body>
