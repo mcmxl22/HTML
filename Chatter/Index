@@ -14,7 +14,8 @@
     <div class="header">
       <header>
 	    <h1 class="siteName">Chatter</h1>
-		<a class="login" href="file:///C:/Users/new user/Desktop/chatter/login.htm">Login</a>
+		<button class="login">Login</button>
+		<button class="Sign Up">Sign Up</button>
 	  </header>
 	</div>
 	
