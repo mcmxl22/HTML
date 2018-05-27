@@ -1,0 +1,97 @@
+body {
+  background-color: white;
+}
+
+.sideBar {
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  width: 10%;
+  height: 100%;
+  margin: 10px;
+  float: left;
+}
+
+.links {
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  margin-left: 28px;
+}
+
+.header {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  height: 120px;
+  margin: 10px;
+}
+
+.login {
+  margin: 12px;
+  float: right;
+}
+
+.siteName {
+  font-family: Arial, sans-serif;
+  margin-left: 10px;
+  width: 275px;
+}
+
+.navLinks {
+  text-decoration: none;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.title {
+  font-family: Arial, sans-serif;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  margin: 12px;
+  text-align: center;
+  width: 85%;
+  background-color: white;
+  float: right;
+}
+
+.articles {
+  font-family: Arial, sans-serif;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  margin: 10px;
+  width: 85%;
+  height: 100%;
+  background-color: white;
+  float: right;
+}
+
+.headline {
+  margin: 13px;
+}
+
+hr {
+  height: 2px;
+  width: 25%;
+  float: left;
+  margin: 0px;
+}
+
+ul {
+  list-style: none;
+  margin-left: -13px;
+}
+
+.footer {
+  font-family: Arial, sans-serif;
+  text-align: left;
+  width: 100%;
+  background-color: grey;
+  float: right;
+}
+
+h5 {
+  color: black;
+}
