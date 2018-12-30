@@ -13,10 +13,10 @@ body {
   float: left;
 }
 
-.links {
+.Links {
   text-decoration: none;
   font-family: Arial, sans-serif;
-  margin-left: 28px;
+  margin-top: 20px;
 }
 
 .header {
@@ -30,6 +30,11 @@ body {
 .login {
   margin: 12px;
   float: right;
+}
+
+.SignUp {
+  margin: 12px;
+  float: left;
 }
 
 .siteName {
@@ -85,13 +90,16 @@ ul {
 }
 
 .footer {
+  height: 120px;
+  margin: 10px;
   font-family: Arial, sans-serif;
   text-align: left;
-  width: 100%;
-  background-color: grey;
-  float: right;
+  width: 98.5%;
+  background-color: black;
+  float: bottom;
+  
 }
 
 h5 {
-  color: black;
+  color: white;
 }
